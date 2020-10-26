@@ -8,8 +8,7 @@ class News extends Component {
   };
 
   componentDidMount() {
-    const url =
-      "https://newsapi.org/v2/top-headlines?sources=google-news-in&apiKey=b2c04a557c9a440b9c08d7682cba9d9c";
+    const url = "";
     const config = {
       header: { accept: "application/json" },
       method: "GET",
