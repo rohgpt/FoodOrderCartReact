@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import Counters from './cartComponent/CounterItem'
+import Counters from './news/index'
 class App extends Component {
   constructor(props) {
     super(props);
