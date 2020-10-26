@@ -1,13 +1,16 @@
 ## Food Order Cart App -Created Using React Js
 
 ## Functionality
-1)Add Item (provide Item name, Item Price,item Rating and Item Quantity)
-2)Delete Items
-3)Increment & Decrement Quantity of Items
-4)Calculate Total Price And Total Quantity
-5)Sort Items By rating
-6)Search Any item in Cart
-7)Backend Node Js Api Is Working -Created By me(Provide Access to admin to show all store data,add new data to api,delete any data from api,reset api data)
+* Add Item (provide Item name, Item Price,item Rating and Item Quantity)
+* Delete Items
+* Increment & Decrement Quantity of Items
+* Calculate Total Price And Total Quantity
+* Sort Items By rating
+* Search Any item in Cart
+* Backend Node Js Api Is Working -Created By me(Provide Access to admin to show all store data,add new data to api,delete any data from api,reset api data)
+
+## Currently Working In Project -----------Expected Time 25/12/20
+## Take Initial Demo Of Project ->https://food-order-cart-react.herokuapp.com/
 
 ## Available Scripts
 
