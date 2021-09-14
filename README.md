@@ -10,7 +10,7 @@
 * Backend Node Js Api Is Working (will be integrated in project later on)
 
 
-## Currently Working In Project -> EXPECT DEADLINE NOV 2022
+## Currently Working In Project -> EXPECTED DEADLINE NOV 2022
 
 ## Tech Used
 - React Js
